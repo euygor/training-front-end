@@ -1,0 +1,180 @@
+* {
+    box-sizing: border-box;
+}
+
+@media (max-width: 991px) {
+    .position-relative {
+        display: none;
+    }
+}
+
+.img-size {
+    height: 740px;
+}
+
+.button-whatsapp {
+    background-color: rgb(3, 154, 137);
+    height: 35px;
+    width: 140px;
+    border-radius: 3px;
+}
+
+.button-whatsapp img {
+    width: 25px;
+    height: 25px;
+}
+
+.button-pattern {
+    background-color: rgb(3, 154, 137);
+    height: 35px;
+    width: 170px;
+    border-radius: 3px;
+    margin-left: 25%;
+    text-decoration: none;
+}
+
+.center-black {
+    background-color: rgb(0, 0, 0);
+    height: 450px;
+}
+
+.center-white {
+    background-color: rgb(239, 239, 239);
+    height: 450px;
+}
+
+.center-top {
+    top: 16.5%;
+    left: 50%;
+}
+
+.center-middle {
+    top: 42%;
+    left: 50%;
+}
+
+.center-middle-2 {
+    width: 300px;
+    top: 61%;
+    left: 50%;
+}
+
+.center-middle-3 {
+    top: 81%;
+    left: 50%;
+}
+
+.center-middle-4 {
+    top: 115%;
+    left: 50%;
+}
+
+.center-middle-4 img {
+    height: 500px;
+}
+
+.center-middle-4 .center-text {
+    top: 50%;
+    left: 35%;
+    width: 400px;
+}
+
+.center-middle-5 {
+    top: 148%;
+    left: 50%;
+}
+
+.center-middle-6 {
+    top: 174%;
+    left: 50%;
+}
+
+.center-middle-6 img {
+    height: 250px;
+}
+
+.center-middle-7 {
+    top: 192%;
+    left: 50%;
+}
+
+.center-middle-7 img {
+    height: 350px;
+}
+
+.center-middle-7 .center-text-2 {
+    top: 50%;
+    left: 35%;
+    width: 370px;
+}
+
+.center-middle-8 {
+    background-color: rgb(239, 239, 239);
+    height: 300px;
+    top: 212%;
+    left: 50%;
+}
+
+.center-middle-9 {
+    height: 80px;
+    top: 225%;
+    left: 50%;
+}
+
+.title-color-2 {
+    color: rgb(119, 119, 119);
+}
+
+.line {
+    background-color: rgb(0, 0, 0);
+    height: 4px;
+}
+
+.card-01 {
+    height: 350px;
+    width: 350px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 0 50px 0 50px;
+}
+
+.title-color {
+    color: rgb(3, 154, 137);
+}
+
+.card-02 {
+    height: 350px;
+    width: 350px;
+    background-color: rgb(255, 255, 255);
+    border: 25px solid rgb(3, 154, 137);
+}
+
+.card-02 img {
+    height: 100%;
+    width: 100%;
+}
+
+.card-contact-01 {
+    background-color: rgb(3, 154, 137);
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-card-01 {
+    width: 350px;
+}
+
+.card-contact-02 {
+    background-color: rgb(4, 116, 104);
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-card-02 {
+    width: 450px;
+}
